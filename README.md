@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Jensaiu2019
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...custom content creations
+- 🌱 I’m currently learning ...S4S
+- 💞️ I’m looking to collaborate on ...custom content creations The Sims 4
+- 📫 How to reach me ...https://www.blogger.com/blog/posts/7231252321079909682
 
-<!---
-Jensaiu2019/Jensaiu2019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
